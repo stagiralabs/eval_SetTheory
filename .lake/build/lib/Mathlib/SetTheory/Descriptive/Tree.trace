@@ -1,0 +1,8 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=././.lake/packages/Cli/.lake/build/lib:././.lake/packages/batteries/.lake/build/lib:././.lake/packages/Qq/.lake/build/lib:././.lake/packages/aesop/.lake/build/lib:././.lake/packages/proofwidgets/.lake/build/lib:././.lake/packages/importGraph/.lake/build/lib:././.lake/packages/LeanSearchClient/.lake/build/lib:././.lake/packages/plausible/.lake/build/lib:././.lake/packages/SafeVerify/.lake/build/lib:././.lake/packages/mathlib/.lake/build/lib:././.lake/packages/VerifiedAgora/.lake/build/lib:././.lake/build/lib LD_LIBRARY_PATH= /home/shivansg/.elan/toolchains/leanprover--lean4---v4.17.0/bin/lean ././src/./Mathlib/SetTheory/Descriptive/Tree.lean -R ././src/. -o ././.lake/build/lib/Mathlib/SetTheory/Descriptive/Tree.olean -i ././.lake/build/lib/Mathlib/SetTheory/Descriptive/Tree.ilean -c ././.lake/build/ir/Mathlib/SetTheory/Descriptive/Tree.c --json",
+   "level": "trace"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Descriptive/Tree.lean:36:6: declaration uses 'sorry'",
+   "level": "warning"}],
+ "depHash": "10038101901542354951"}

@@ -1,0 +1,173 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=././.lake/packages/Cli/.lake/build/lib:././.lake/packages/batteries/.lake/build/lib:././.lake/packages/Qq/.lake/build/lib:././.lake/packages/aesop/.lake/build/lib:././.lake/packages/proofwidgets/.lake/build/lib:././.lake/packages/importGraph/.lake/build/lib:././.lake/packages/LeanSearchClient/.lake/build/lib:././.lake/packages/plausible/.lake/build/lib:././.lake/packages/SafeVerify/.lake/build/lib:././.lake/packages/mathlib/.lake/build/lib:././.lake/packages/VerifiedAgora/.lake/build/lib:././.lake/build/lib LD_LIBRARY_PATH= /home/shivansg/.elan/toolchains/leanprover--lean4---v4.17.0/bin/lean ././src/./Mathlib/SetTheory/Cardinal/Finite.lean -R ././src/. -o ././.lake/build/lib/Mathlib/SetTheory/Cardinal/Finite.olean -i ././.lake/build/lib/Mathlib/SetTheory/Cardinal/Finite.ilean -c ././.lake/build/ir/Mathlib/SetTheory/Cardinal/Finite.c --json",
+   "level": "trace"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:43:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:48:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:51:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:54:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:57:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:69:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:72:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:75:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:78:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:86:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:89:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:93:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:97:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:121:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:125:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:129:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:136:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:139:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:142:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:145:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:149:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:152:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:156:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:163:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:176:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:179:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:182:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:185:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:188:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:191:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:194:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:197:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:200:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:203:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:210:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:214:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:217:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:220:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:228:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:231:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:234:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:236:0: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:252:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:255:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:262:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:266:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:278:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:282:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:286:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:290:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:294:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:298:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:302:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:306:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:309:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Finite.lean:312:8: declaration uses 'sorry'",
+   "level": "warning"}],
+ "depHash": "13645808251622101719"}

@@ -1,0 +1,113 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=././.lake/packages/Cli/.lake/build/lib:././.lake/packages/batteries/.lake/build/lib:././.lake/packages/Qq/.lake/build/lib:././.lake/packages/aesop/.lake/build/lib:././.lake/packages/proofwidgets/.lake/build/lib:././.lake/packages/importGraph/.lake/build/lib:././.lake/packages/LeanSearchClient/.lake/build/lib:././.lake/packages/plausible/.lake/build/lib:././.lake/packages/SafeVerify/.lake/build/lib:././.lake/packages/mathlib/.lake/build/lib:././.lake/packages/VerifiedAgora/.lake/build/lib:././.lake/build/lib LD_LIBRARY_PATH= /home/shivansg/.elan/toolchains/leanprover--lean4---v4.17.0/bin/lean ././src/./Mathlib/SetTheory/Surreal/Multiplication.lean -R ././src/. -o ././.lake/build/lib/Mathlib/SetTheory/Surreal/Multiplication.olean -i ././.lake/build/lib/Mathlib/SetTheory/Surreal/Multiplication.ilean -c ././.lake/build/ir/Mathlib/SetTheory/Surreal/Multiplication.c --json",
+   "level": "trace"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:98:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:111:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:117:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:123:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:126:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:131:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:136:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:165:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:177:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:186:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:200:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:213:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:217:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:220:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:223:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:232:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:237:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:244:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:258:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:267:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:270:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:275:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:285:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:290:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:301:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:315:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:319:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:334:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:344:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:347:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:350:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:354:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:358:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:382:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:391:14: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Surreal/Multiplication.lean:391:14: declaration uses 'sorry'",
+   "level": "warning"}],
+ "depHash": "1862559017253032537"}

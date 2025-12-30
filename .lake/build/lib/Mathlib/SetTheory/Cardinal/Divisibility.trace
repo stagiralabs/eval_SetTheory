@@ -1,0 +1,26 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=././.lake/packages/Cli/.lake/build/lib:././.lake/packages/batteries/.lake/build/lib:././.lake/packages/Qq/.lake/build/lib:././.lake/packages/aesop/.lake/build/lib:././.lake/packages/proofwidgets/.lake/build/lib:././.lake/packages/importGraph/.lake/build/lib:././.lake/packages/LeanSearchClient/.lake/build/lib:././.lake/packages/plausible/.lake/build/lib:././.lake/packages/SafeVerify/.lake/build/lib:././.lake/packages/mathlib/.lake/build/lib:././.lake/packages/VerifiedAgora/.lake/build/lib:././.lake/build/lib LD_LIBRARY_PATH= /home/shivansg/.elan/toolchains/leanprover--lean4---v4.17.0/bin/lean ././src/./Mathlib/SetTheory/Cardinal/Divisibility.lean -R ././src/. -o ././.lake/build/lib/Mathlib/SetTheory/Cardinal/Divisibility.olean -i ././.lake/build/lib/Mathlib/SetTheory/Cardinal/Divisibility.ilean -c ././.lake/build/ir/Mathlib/SetTheory/Cardinal/Divisibility.c --json",
+   "level": "trace"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Divisibility.lean:40:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Divisibility.lean:52:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Divisibility.lean:71:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Divisibility.lean:74:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Divisibility.lean:77:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Divisibility.lean:80:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/Divisibility.lean:83:8: declaration uses 'sorry'",
+   "level": "warning"}],
+ "depHash": "4556707752669584173"}

@@ -1,0 +1,62 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=././.lake/packages/Cli/.lake/build/lib:././.lake/packages/batteries/.lake/build/lib:././.lake/packages/Qq/.lake/build/lib:././.lake/packages/aesop/.lake/build/lib:././.lake/packages/proofwidgets/.lake/build/lib:././.lake/packages/importGraph/.lake/build/lib:././.lake/packages/LeanSearchClient/.lake/build/lib:././.lake/packages/plausible/.lake/build/lib:././.lake/packages/SafeVerify/.lake/build/lib:././.lake/packages/mathlib/.lake/build/lib:././.lake/packages/VerifiedAgora/.lake/build/lib:././.lake/build/lib LD_LIBRARY_PATH= /home/shivansg/.elan/toolchains/leanprover--lean4---v4.17.0/bin/lean ././src/./Mathlib/SetTheory/ZFC/Ordinal.lean -R ././src/. -o ././.lake/build/lib/Mathlib/SetTheory/ZFC/Ordinal.olean -i ././.lake/build/lib/Mathlib/SetTheory/ZFC/Ordinal.ilean -c ././.lake/build/ir/Mathlib/SetTheory/ZFC/Ordinal.c --json",
+   "level": "trace"},
+  {"message":
+   "././src/./Mathlib/SetTheory/ZFC/Ordinal.lean:44:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/ZFC/Ordinal.lean:50:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/ZFC/Ordinal.lean:70:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/ZFC/Ordinal.lean:88:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/ZFC/Ordinal.lean:91:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/ZFC/Ordinal.lean:112:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/ZFC/Ordinal.lean:120:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/ZFC/Ordinal.lean:130:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/ZFC/Ordinal.lean:135:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/ZFC/Ordinal.lean:139:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/ZFC/Ordinal.lean:142:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/ZFC/Ordinal.lean:146:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/ZFC/Ordinal.lean:149:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/ZFC/Ordinal.lean:152:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/ZFC/Ordinal.lean:155:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/ZFC/Ordinal.lean:166:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/ZFC/Ordinal.lean:176:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/ZFC/Ordinal.lean:182:8: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/ZFC/Ordinal.lean:186:8: declaration uses 'sorry'",
+   "level": "warning"}],
+ "depHash": "17787903794871928391"}

@@ -1,0 +1,11 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=././.lake/packages/Cli/.lake/build/lib:././.lake/packages/batteries/.lake/build/lib:././.lake/packages/Qq/.lake/build/lib:././.lake/packages/aesop/.lake/build/lib:././.lake/packages/proofwidgets/.lake/build/lib:././.lake/packages/importGraph/.lake/build/lib:././.lake/packages/LeanSearchClient/.lake/build/lib:././.lake/packages/plausible/.lake/build/lib:././.lake/packages/SafeVerify/.lake/build/lib:././.lake/packages/mathlib/.lake/build/lib:././.lake/packages/VerifiedAgora/.lake/build/lib:././.lake/build/lib LD_LIBRARY_PATH= /home/shivansg/.elan/toolchains/leanprover--lean4---v4.17.0/bin/lean ././src/./Mathlib/SetTheory/Game/Short.lean -R ././src/. -o ././.lake/build/lib/Mathlib/SetTheory/Game/Short.olean -i ././.lake/build/lib/Mathlib/SetTheory/Game/Short.ilean -c ././.lake/build/ir/Mathlib/SetTheory/Game/Short.c --json",
+   "level": "trace"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Game/Short.lean:76:4: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Game/Short.lean:130:8: declaration uses 'sorry'",
+   "level": "warning"}],
+ "depHash": "11161565155224674516"}

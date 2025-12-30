@@ -1,0 +1,26 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=././.lake/packages/Cli/.lake/build/lib:././.lake/packages/batteries/.lake/build/lib:././.lake/packages/Qq/.lake/build/lib:././.lake/packages/aesop/.lake/build/lib:././.lake/packages/proofwidgets/.lake/build/lib:././.lake/packages/importGraph/.lake/build/lib:././.lake/packages/LeanSearchClient/.lake/build/lib:././.lake/packages/plausible/.lake/build/lib:././.lake/packages/SafeVerify/.lake/build/lib:././.lake/packages/mathlib/.lake/build/lib:././.lake/packages/VerifiedAgora/.lake/build/lib:././.lake/build/lib LD_LIBRARY_PATH= /home/shivansg/.elan/toolchains/leanprover--lean4---v4.17.0/bin/lean ././src/./Mathlib/SetTheory/Cardinal/HasCardinalLT.lean -R ././src/. -o ././.lake/build/lib/Mathlib/SetTheory/Cardinal/HasCardinalLT.olean -i ././.lake/build/lib/Mathlib/SetTheory/Cardinal/HasCardinalLT.ilean -c ././.lake/build/ir/Mathlib/SetTheory/Cardinal/HasCardinalLT.c --json",
+   "level": "trace"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/HasCardinalLT.lean:25:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/HasCardinalLT.lean:37:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/HasCardinalLT.lean:40:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/HasCardinalLT.lean:68:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/HasCardinalLT.lean:91:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/HasCardinalLT.lean:100:6: declaration uses 'sorry'",
+   "level": "warning"},
+  {"message":
+   "././src/./Mathlib/SetTheory/Cardinal/HasCardinalLT.lean:106:6: declaration uses 'sorry'",
+   "level": "warning"}],
+ "depHash": "17064673536606624471"}
